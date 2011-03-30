@@ -10,6 +10,7 @@ class FogBugz_Response {
 		'//response/token' => 'FogBugz_Response_Token',
 		'//response/filters' => 'FogBugz_Response_Filters',
 		'//response/cases' => 'FogBugz_Response_Cases',
+		'//response/case' => 'FogBugz_Response_Case',
 		'//response/events' => 'FogBugz_Response_Events',
 		'//response/projects' => 'FogBugz_Response_Projects',
 		'//response/areas' => 'FogBugz_Response_Areas',
